@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NewDataSet>
+  <S>
+    <ID号>A1001</ID号>
+    <name>金庸</name>
+    <jibie>老师</jibie>
+    <nianling>98</nianling>
+    <xingbie>男</xingbie>
+  </S>
+  <S>
+    <ID号>A002</ID号>
+    <name>古龙</name>
+    <jibie>学生</jibie>
+    <nianling>20</nianling>
+    <xingbie>男</xingbie>
+  </S>
+  <S>
+    <ID号>A003</ID号>
+    <name>黄宝伟</name>
+    <jibie>学生</jibie>
+    <xingbie>男</xingbie>
+    <nianling>21</nianling>
+  </S>
+</NewDataSet>
+
